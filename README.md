@@ -1,5 +1,11 @@
 # Anglo-Saxon system converter to decimal metric and vice versa
 #### Video Demo:  <https://youtu.be/gQ491b5lro0>
+
+## Autor: Raul Estevez
+### GitHub profile: [RaulEstevezA](https://github.com/RaulEstevezA)
+### LinkedIn: [Raul Estevez](https://www.linkedin.com/in/raul-estevez-abella-9a2a1687/)
+### Contact: [r.estevezbella@gmail.com](mailto:r.estevezbella@gmail.com)
+
 ### __Description:__
 #### It is a program for converting units from the Anglo-Saxon system to the metric system and vice versa.
 #### It first presents the program and prompts you to enter *exit* any time you want to exit. Then it will ask you what measurement you want to make the conversion, the choices being length, weight, volume or temperature. If the user does not enter the choice correctly, it will ask you again until you enter it correctly or enter *exit*. Once you have chosen one of the four options, it asks you to enter the data to convert. In this step, you are also asked to enter either the measurement to be converted or its acronym. If it is not entered correctly, it will be requested again until it is written correctly or *exit* is inserted. Once the measurement to be converted has been correctly inserted, the program prints the conversion in the most common measurement of the opposite system.
